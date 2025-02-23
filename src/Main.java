@@ -5,6 +5,6 @@ public class Main {
     }
 
     public static void printMessage() {
-        System.out.println("This is the second change!");
+        System.out.println("This is the  change!");
     }
 }
